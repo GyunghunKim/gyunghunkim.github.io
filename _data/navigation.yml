@@ -1,18 +1,21 @@
 # main links
 main:
-  - title: "About"
-    url: /
   - title: "Study"
     children:
     - title: "Math"
+      url: /math
     - title: "Engineering"
+      url: /engineering
     - title: "Physics"
+      url: /physics
+    - title: "Computer"
+      url: /computer
   - title: "Projects"
     children:
-    - title: "?"
-  - title: "Life"
-    children:
-    - title: "Albert Camus"
+    - title: "Comming Soon"
+  # - title: "Life"
+  #   children:
+  #   - title: "Albert Camus"
     
   # - title: "Sample Posts"
   #   url: /year-archive/
