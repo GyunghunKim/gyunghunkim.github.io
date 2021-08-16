@@ -291,6 +291,3 @@ defaults:
       share: false
       sidebar:
         nav: "main"
-
-
-theme: jekyll-theme-cayman
