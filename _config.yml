@@ -292,3 +292,5 @@ defaults:
       sidebar:
         nav: "main"
 
+
+theme: jekyll-theme-cayman
