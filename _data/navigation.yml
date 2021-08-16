@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Study"
+    children:
+    - title: "Math"
+      url: /math
+    - title: "Engineering"
+      url: /engineering
+    - title: "Physics"
+      url: /physics
+    - title: "Computer"
+      url: /computer
+  - title: "Projects"
+    children:
+    - title: "Comming Soon"
+  # - title: "Life"
+  #   children:
+  #   - title: "Albert Camus"
+    
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
